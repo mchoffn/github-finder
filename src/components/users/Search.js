@@ -31,7 +31,7 @@ export class Search extends Component {
           />
           <input
             type='submit'
-            value='Search'
+            value='Searchhhhh'
             className='btn btn-dark btn-block'
           />
         </form>
