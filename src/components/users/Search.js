@@ -33,7 +33,7 @@ export class Search extends Component {
           <input
             type='text'
             name='text'
-            placeholder='Search Users...'
+            placeholder='Search github users...'
             value={this.state.text}
             onChange={this.onChange}
           />
